@@ -1,8 +1,8 @@
-# pumPPoker · versión web
+# La Timba · versión web
 
 [▶ Jugar ahora](https://eeduuu.github.io/pumPPoker-web/)
 
-Publicación de la web compilada de pumPPoker. El proyecto y su historial de desarrollo se mantienen en un repositorio privado.
+Publicación de la web compilada de La Timba (antes pumPPoker): cartas, casino, juegos de mesa y puzles contra bots o con amigos. El proyecto y su historial de desarrollo se mantienen en un repositorio privado.
 
 El multijugador utiliza un Cloudflare Worker independiente. Este repositorio no contiene claves ni credenciales.
 

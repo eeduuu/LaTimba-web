@@ -1,14 +1,14 @@
 {
-  "name": "pumꟼPoker",
-  "short_name": "pumꟼPoker",
-  "description": "Juegos de cartas gratuitos contra bots, sin dinero real.",
+  "name": "La Timba",
+  "short_name": "La Timba",
+  "description": "Cartas, casino, juegos de mesa y puzles gratis, contra bots o con amigos, sin dinero real.",
   "lang": "es",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#101e1b",
-  "theme_color": "#101e1b",
+  "background_color": "#1c0f40",
+  "theme_color": "#1c0f40",
   "icons": [
     {
       "src": "./icon-192.png",
