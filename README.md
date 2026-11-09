@@ -1,8 +1,8 @@
-# La Timba · versión web
+# La Timba
 
 [▶ Jugar ahora](https://eeduuu.github.io/LaTimba-web/)
 
-Publicación de la web compilada de La Timba (antes pumPPoker): cartas, casino, juegos de mesa y puzles contra bots o con amigos. El proyecto y su historial de desarrollo se mantienen en un repositorio privado.
+Publicación de la web compilada de La Timba: cartas, casino, juegos de mesa y puzles contra bots o con amigos. El proyecto y su historial de desarrollo se mantienen en un repositorio privado.
 
 El multijugador utiliza un Cloudflare Worker independiente. Este repositorio no contiene claves ni credenciales.
 
